@@ -3,3 +3,50 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  margin: auto;
+  text-align: center;
+}
+
+img#couch {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+nav#nav-tab {
+  text-align: center;
+}
+
+a.nav-link {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+
+p.block {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+section#details {
+  margin: auto;
+  text-align: center;
+}
+
+div {
+  float:left;
+  width: 25%;
+  background-color: red;
+}
+
